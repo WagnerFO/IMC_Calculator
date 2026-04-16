@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/gauge_widget.dart';
+import 'package:flutter_application_1/widget/gauge_widget.dart';
 import 'package:flutter_application_1/services/imc_services.dart';
 
 class ResultadoPage extends StatefulWidget {
