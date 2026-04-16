@@ -1,16 +1,21 @@
-# flutter_application_1
+# 📱 IMC Calculator
 
-A new Flutter project.
+Aplicativo Flutter para cálculo de IMC com interface moderna e animações.
 
-## Getting Started
+## ✨ Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Splash screen animada
+- Cálculo automático de IMC
+- Gauge animado mostrando resultado
+- Classificação corporal
+- Validação inteligente dos campos
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Syncfusion Gauge
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👨‍💻 Autor
+
+WagnerFO
